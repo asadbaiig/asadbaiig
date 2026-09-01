@@ -144,38 +144,6 @@ Interactive image app generating 3D lookup tables for real-time color transforms
 
 </div>
 
-<!--
-  📌 To enable the contribution snake animation:
-  1. Create a new file at: .github/workflows/snake.yml
-  2. Paste the workflow below into that file
-  3. Enable GitHub Actions & set workflow permissions to "Read and write"
-
-  name: Generate Snake Animation
-  on:
-    schedule:
-      - cron: "0 */6 * * *"
-    workflow_dispatch:
-    push:
-      branches: [ main ]
-
-  jobs:
-    generate:
-      permissions:
-        contents: write
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/retro-snake.svg?color_snake=%23FF6B35&color_dots=%23F7C548,%23F7C548,%23D4A24C,%23D4A24C,%23FF6B35
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 <br>
 
