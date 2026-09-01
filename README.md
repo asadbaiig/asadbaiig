@@ -52,7 +52,7 @@ Backend / AI Engineer experienced in **async Python & FastAPI services**, **spat
 </td>
 <td width="35%" align="center">
 
-<img src="profile.jpg" width="260" style="border-radius: 20px; border: 4px solid #FF6B35;" />
+<img src="profile.jpeg" width="260" style="border-radius: 20px; border: 4px solid #FF6B35;" />
 
 </td>
 </tr>
