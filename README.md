@@ -129,24 +129,6 @@ Interactive image app generating 3D lookup tables for real-time color transforms
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=asadbaiig&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbaiig&theme=dark&hide_border=true&background=00000000" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbaiig&layout=compact&theme=dark&hide_border=true&bg_color=00000000" width="48%" />
-<img src="https://github-readme-trophies.vercel.app/?username=asadbaiig&theme=darkhub&no-frame=true&no-bg=true&row=1&column=4" width="48%" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
-
 <div align="center">
 
 ## 🌐 Connect
