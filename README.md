@@ -149,6 +149,13 @@ Interactive image app generating 3D lookup tables for real-time color transforms
 
 <br/>
 
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/asadbaiig/asadbaiig/output/retro-snake.svg" width="95%" />
+
+</div>
 
 <br/>
 
